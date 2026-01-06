@@ -52,3 +52,19 @@ recipes/
 
 **Me:** "I want to try something Korean this weekend"
 **You:** Check what Korean recipes I have, suggest ones I haven't made recently
+
+## Maintaining CLAUDE_PROJECT_KNOWLEDGE.md
+
+This file is a condensed version of my preferences + top recipes for use in Claude web UI Projects. Keep it in sync:
+
+**Max recipes:** 20
+
+**When to add a recipe:**
+- When I add a recipe to `favorites/`
+- When I rate a recipe ★★★★☆ or higher
+
+**When at max capacity (20 recipes):**
+- Remove the oldest recipe with the same or lower rating that's NOT in `favorites/`
+- Priority order: favorites > higher ratings > more recent
+
+**Format:** Keep recipes condensed (ingredients list + short method paragraph)
