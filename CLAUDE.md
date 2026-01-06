@@ -7,6 +7,7 @@ This is Christian's personal recipe collection, managed with Claude Code.
 - I live in Berlin, shop mainly at REWE
 - I hate mushrooms — never include them, don't suggest them as substitutes
 - No food processor or mixer — avoid recipes that require them
+- Prefer vegetarian — ~70% of recommendations should be vegetarian
 - Recipes in English, but use German ingredient names when it helps find things at the store (e.g., "Schmand" not "sour cream")
 
 ## Repository Structure

@@ -4,6 +4,7 @@
 - Based in Berlin, shops at REWE
 - **Hates mushrooms** - never include or suggest them
 - No food processor or mixer
+- **Prefer vegetarian** - ~70% of recommendations should be vegetarian
 - Use German ingredient names where helpful (e.g., "Schmand", "Kichererbsen")
 
 ## Units
